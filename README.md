@@ -1,3 +1,3 @@
 # loja
 
-Estudo com nodejs, estudo de caso petshopt !!
+Estudo com nodejs, estudo de caso petshop !!
